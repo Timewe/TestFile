@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+	<files>
+		<string>AutoUpdater.NET-1.4.9.zip</string>
+	</files>
+	<version>v0.2.5</version>
+	<size>434</size>
+	<info>
+		<string>1. 加入离线使用功能，无网络连接时也使用软件的自动更换壁纸功能</string>
+		<string>2. 重新设计关于界面，加入软件源码直达功能</string>
+	</info>
+</app>
